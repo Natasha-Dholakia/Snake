@@ -12,10 +12,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
 
-#### Latest blog posts and some programming wisdom from @CodeWisdom :-)
-<!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Mon Oct 18 2021](https://rss.app)
-<!-- BLOG-POST-LIST:END -->
 
 #### Daylily Random comic strip
 <!--START_SECTION:comicstrip-->
