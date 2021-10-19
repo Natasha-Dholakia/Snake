@@ -3,7 +3,7 @@
 <img src="https://github.com/Natasha-Dholakia/Snake/blob/output/github-contribution-grid-snake.gif" />
 
 
-#### Daylily Random comic strip
+#### Daily Random comic strip
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
